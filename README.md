@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="wonderlogo2.png" alt="Five M Launcher" width="300"></a>
+    <img src="wonderlogo2.png" alt="FiveM Launcher" width="300"></a>
     <br>
     Wonder Launcher
     <br>
@@ -21,11 +21,11 @@
 ## Key Features
 
 * Start the game and connect to Five M server
-* Clear Five M cache
+* Clear FiveM cache
 
 ## How To Use
 
-To use this launcher, you need to have FiveM and GTA V installed on your computer. Once you've downloaded and installed the launcher, simply open it and click on the "Avvia Wonder RP" button to start the game and connect to the Five M server. If you want to clear the Five M cache, click on the "Pulisci le Cache" button.
+To use this launcher, you need to have FiveM and GTA V installed on your computer. Once you've downloaded and installed the launcher, simply open it and click on the "Avvia Wonder RP" button to start the game and connect to the FiveM server. If you want to clear the FiveM cache, click on the "Pulisci le Cache" button.
 
 ## Download
 
