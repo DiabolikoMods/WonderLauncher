@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="wonderlogo2.png" alt="Five M Launcher" width="350"></a>
+    <img src="wonderlogo2.png" alt="Five M Launcher" width="300"></a>
     <br>
     Wonder Launcher [Simple Version]
     <br>
