@@ -16,8 +16,6 @@
     <a href="#license">License</a>
 </p>
 
-!WonderLauncher
-
 ## Key Features
 
 * Start the game and connect to Five M server
