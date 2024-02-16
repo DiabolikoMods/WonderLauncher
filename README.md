@@ -27,6 +27,8 @@
 
 To use this launcher, you need to have FiveM and GTA V installed on your computer. Once you've downloaded and installed the launcher, simply open it and click on the "Avvia Wonder RP" button to start the game and connect to the FiveM server. If you want to clear the FiveM cache, click on the "Pulisci le Cache" button.
 
+[![Watch the video](https://img.youtube.com/vi/rOhv5_caaUs/hqdefault.jpg)](https://www.youtube.com/embed/rOhv5_caaUs)
+
 ## Download
 
 You can download the latest version of the launcher from the releases page of this repository.
