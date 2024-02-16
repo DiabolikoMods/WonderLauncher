@@ -2,7 +2,7 @@
     <br>
     <img src="wonderlogo2.png" alt="Five M Launcher" width="300"></a>
     <br>
-    Wonder Launcher [Simple Version]
+    Wonder Launcher
     <br>
 </h1>
 
