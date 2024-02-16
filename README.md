@@ -39,7 +39,7 @@ This project was made possible thanks to:
 
 * <a href="https://github.com/DiabolikoMods">Diaboliko</a>
 * <a href="https://github.com/ColdbloodDK">ColdBloodDK</a>
-* <a href="https://discord.gg/gNdSzm2aEv">The entire Wonder RP Staff</a>
+* <a href="https://discord.gg/gNdSzm2aEv">Wonder RP Staff</a>
 
 ## Support
 
