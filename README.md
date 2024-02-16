@@ -35,9 +35,9 @@ You can download the latest version of the launcher from the releases page of th
 
 This project was made possible thanks to:
 
-* Diaboliko
-* ColdBloodDK
-* The entire Wonder RP Staff
+* <a href="https://github.com/DiabolikoMods">Diaboliko</a>
+* <a href="https://github.com/ColdbloodDK">ColdBloodDK</a>
+* <a href="https://discord.gg/gNdSzm2aEv">The entire Wonder RP Staff</a>
 
 ## Support
 
