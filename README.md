@@ -20,7 +20,7 @@
 
 ## Key Features
 
-* Start the game and connect to Five M server
+* Start the game and connect to FiveM server
 * Clear FiveM cache
 
 ## How To Use
