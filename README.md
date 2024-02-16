@@ -1,8 +1,8 @@
 <h1 align="center">
     <br>
-    <img src="wonderlogo2.png" alt="Five M Launcher" width="200"></a>
+    <img src="wonderlogo2.png" alt="Five M Launcher" width="350"></a>
     <br>
-    Wonder Launcher
+    Wonder Launcher [Simple Version]
     <br>
 </h1>
 
@@ -16,6 +16,8 @@
     <a href="#license">License</a>
 </p>
 
+ ![WonderLauncher](https://github.com/DiabolikoMods/WonderSimpleLauncher/assets/114475600/f3b6639d-7476-461b-a6b9-6d7c0d3646cf)
+
 ## Key Features
 
 * Start the game and connect to Five M server
@@ -23,13 +25,13 @@
 
 ## How To Use
 
-To use this launcher, you need to have FiveM and GTA V installed on your computer. Once you've downloaded and installed the launcher, simply open it and click on the "Start Wonder RP" button to start the game and connect to the Five M server. If you want to clear the Five M cache, click on the "Clear Five M cache" button.
+To use this launcher, you need to have FiveM and GTA V installed on your computer. Once you've downloaded and installed the launcher, simply open it and click on the "Avvia Wonder RP" button to start the game and connect to the Five M server. If you want to clear the Five M cache, click on the "Pulisci le Cache" button.
 
 ## Download
 
 You can download the latest version of the launcher from the releases page of this repository.
 
-## Credits & Thanks
+## Credits
 
 This project was made possible thanks to:
 
