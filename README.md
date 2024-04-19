@@ -40,7 +40,13 @@ To use this launcher, you need to have FiveM and GTA V installed on your compute
 
 ## Download
 
-You can download the latest version of the launcher from the releases page of this repository.
+You can download and use the Wonder Launcher in two ways:
+
+1. **Download the source code:** If you're interested in examining the source code of the Wonder Launcher or contributing to its development, you can directly download the .py file from the GitHub repository. Make sure to meet the system requirements listed in the README.md file of the repository.
+   - [Download the source code (.py)](https://github.com/DiabolikoMods/WonderLauncher/blob/main/main.py)
+
+2. **Download the executable (.exe):** If you prefer using the precompiled executable, you can download the latest version of the Wonder Launcher from the GitHub release repository. You don't need to install Python or meet any system requirements; simply download and run the program.
+   - [Download the executable (.exe)](https://github.com/DiabolikoMods/WonderLauncher/releases/download/python/Wonder.Launcher.exe)
 
 ## Credits
 
