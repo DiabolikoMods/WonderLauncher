@@ -57,4 +57,4 @@ If you like this project and find it useful, consider supporting its development
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT License with Media Exclusion and Attribution Clause.
