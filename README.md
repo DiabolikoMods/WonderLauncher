@@ -22,8 +22,14 @@
 
 ## Key Features
 
-* Start the game and connect to FiveM server
-* Clear FiveM cache
+- **Launch Game and Connect to FiveM Server:** Start the game and connect to the FiveM server with a single click.
+- **Cache Cleaning:** Effortlessly clear the FiveM cache to optimize performance and stability.
+- **Intuitive User Interface:** User-friendly interface for easy navigation and operation.
+- **Appearance Mode Selection:** Choose between different appearance modes (System, Light, Dark) for personalized experience.
+- **Quick Access to Server Rules:** Access the server rules quickly with a dedicated button.
+- **Instagram Integration:** Easily access the official Instagram page of the server.
+- **Discord Invite:** Join the official Discord server with a single click.
+- **Information Display:** Provides detailed information about the launcher and its functionalities.
 
 ## How To Use
 
