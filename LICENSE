@@ -12,7 +12,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Clausola aggiuntiva:
+Additional Clause:
 1. Media such as images and logos included in this Software are excluded from the above grant of permission. Permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell such media is not granted under this license.
 
 2. Redistributions of the Software or derivative works thereof must include attribution to the original author(s) and a link to the original repository. Additionally, the original author(s) must be credited in any derivative works, including but not limited to software products, documentation, and other materials derived from this Software.
@@ -24,3 +24,36 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------------------------------------------------------------------------------
+
+Licenza MIT con Esclusione dei Media e Clausola di Attribuzione
+
+Diritti d'Autore (c) 2024 Diaboliko
+
+Con la presente viene concessa, gratuitamente, a chiunque ottenga una copia
+di questo software e dei file di documentazione associati (il "Software"), il permesso
+di utilizzare il Software senza restrizioni, compreso, ma non limitato ai diritti
+di utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza
+e/o vendere copie del Software, e di consentire alle persone a cui il Software è
+fornito di fare altrettanto, a condizione che vengano rispettate le seguenti condizioni:
+
+La presente avviso di copyright e il presente avviso di permesso devono essere inclusi in tutte
+le copie o parti sostanziali del Software.
+
+Clausola aggiuntiva:
+1. Media come immagini e loghi inclusi in questo Software sono esclusi dall'ambito di concessione
+del permesso sopra indicato. Non è concessa alcuna autorizzazione per utilizzare, copiare, modificare,
+unire, pubblicare, distribuire, concedere in sublicenza e/o vendere tali media ai sensi di questa licenza.
+
+2. La redistribuzione del Software o dei lavori derivati da esso deve includere l'attribuzione agli autori
+originali e un collegamento al repository originale. Inoltre, gli autori originali devono essere accreditati
+in tutti i lavori derivati, compresi ma non limitati a prodotti software, documentazione e altri materiali
+derivati da questo Software.
+
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIA DI ALCUN TIPO, ESPRESSA O IMPLICITA,
+INCLUSO, MA NON LIMITATO A, GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UN PARTICOLARE SCOPO
+E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL COPYRIGHT POTRANNO ESSERE RITENUTI
+RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRA RESPONSABILITÀ, SIA IN UN'AZIONE CONTRATTUALE,
+DISCIPLINARE O ALTRA, DERIVANTE DA, O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRE OPERAZIONI
+NEL SOFTWARE.
