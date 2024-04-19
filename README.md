@@ -41,6 +41,7 @@ You can download the latest version of the launcher from the releases page of th
 This project was made possible thanks to:
 
 * <a href="https://github.com/DiabolikoMods">Diaboliko</a>
+* <a href="https://github.com/ColdbloodDK">ColdBloodDK</a>
 
 ## Support
 
