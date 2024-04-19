@@ -33,10 +33,19 @@
 
 ## How To Use
 
-To use this launcher, you need to have FiveM and GTA V installed on your computer. Once you've downloaded and installed the launcher, simply open it and click on the "GIOCA ORA" button to start the game and connect to the FiveM server. If you want to clear the FiveM cache, click on the "Pulizia Cache" button.
+To make the most of this launcher, ensure you have FiveM and GTA V installed on your system. Follow these steps after downloading the launcher:
 
-[<img src="https://img.youtube.com/vi/VDjYJ5GBbN8/hqdefault.jpg" width="1080" height="700"
-/>](https://www.youtube.com/embed/VDjYJ5GBbN8)
+1. **Open the Launcher:** Double-click on the Wonder Launcher executable file to launch the application.
+
+2. **Start the Game:** After launching the Wonder Launcher, click on the "GIOCA ORA" (Play Now) button to initiate the game and connect to the FiveM server.
+
+3. **Clear Cache (Optional):** If you wish to clear the FiveM cache, click on the "Pulizia Cache" (Cache Cleanup) button provided in the launcher.
+
+## Showcase Video
+
+Watch the video below to see the Wonder Launcher in action:
+
+[![Wonder Launcher Showcase](https://img.youtube.com/vi/VDjYJ5GBbN8/hqdefault.jpg)](https://www.youtube.com/embed/VDjYJ5GBbN8)
 
 ## Download
 
